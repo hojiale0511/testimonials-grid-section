@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/css-grid-and-responsive-web-design-jAGKodzFC]
-- Live Site URL: [https://hojiale0511.github.io/testimonials-grid-section/]
+- Live Site URL: [https://letsbuildittt11.github.io/testimonials-grid-section/]
 
 ## My process
 
